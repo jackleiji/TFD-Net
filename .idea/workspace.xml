@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5538772-6056-4ab8-948c-e9f34eff3406" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IIui5Zm8YRL9VzvzAQIP8gtTSH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/PROJECT/TFD-Net(Embed_Gaussian_Distribution)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PROJECT\TFD-Net(Embed_Gaussian_Distribution)\Model" />
+      <recent name="E:\PROJECT\TFD-Net(Embed_Gaussian_Distribution)\dataset" />
+      <recent name="E:\PROJECT\TransformerForAnomalDetectionDivV3.2" />
+      <recent name="E:\PROJECT\TransformerForAnomalDetectionDivV3.1\data_secret" />
+      <recent name="E:\PROJECT\TransformerForAnomalDetectionDivV3.1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PROJECT\TFD-Net(Embed_Gaussian_Distribution)\Model" />
+      <recent name="E:\PROJECT\TransformerForAnomalDetectionDivV3.2\Model" />
+      <recent name="E:\PROJECT\TransformerForAnomalDetectionDivV3.1\data_secret" />
+      <recent name="E:\PROJECT\TransformerForAnomalDetectionDivV2.0\dataset_2022" />
+      <recent name="D:\西工大\研究生\Project\TransformerForTrafficDetectionDiv\originDataset" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.vaild_test">
+    <configuration name="TFDLossEffect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ECG_Transformer源代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/picture" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/picture/TFDLossEffect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ECG_Transformer源代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mainFewNegAutoAttenSecret" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ECG_Transformer源代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainFewNegAutoAttenSecret.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="secret_LSTM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ECG_Transformer源代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secret_LSTM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vaild_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ECG_Transformer源代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vaild_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.vaild_test" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.TFDLossEffect" />
+        <item itemvalue="Python.mainFewNegAutoAttenSecret" />
+        <item itemvalue="Python.secret_LSTM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5538772-6056-4ab8-948c-e9f34eff3406" name="Changes" comment="" />
+      <created>1669881542405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669881542405</updated>
+      <workItem from="1669881543569" duration="3726000" />
+      <workItem from="1669900923190" duration="2656000" />
+      <workItem from="1669942682370" duration="10307000" />
+      <workItem from="1670030492363" duration="607000" />
+      <workItem from="1670037685169" duration="601000" />
+      <workItem from="1670123277603" duration="5982000" />
+      <workItem from="1670202604402" duration="21809000" />
+      <workItem from="1670288088290" duration="16453000" />
+      <workItem from="1670327025107" duration="7551000" />
+      <workItem from="1670377984861" duration="21537000" />
+      <workItem from="1670459264867" duration="39224000" />
+      <workItem from="1670678059939" duration="1567000" />
+      <workItem from="1670766320793" duration="220000" />
+      <workItem from="1670916624588" duration="6787000" />
+      <workItem from="1670981012530" duration="821000" />
+      <workItem from="1671157915588" duration="1230000" />
+      <workItem from="1671193512494" duration="643000" />
+      <workItem from="1671240297429" duration="3265000" />
+      <workItem from="1671329570267" duration="15466000" />
+      <workItem from="1671454078648" duration="4101000" />
+      <workItem from="1671626413409" duration="630000" />
+      <workItem from="1671674780967" duration="2986000" />
+      <workItem from="1671751894124" duration="685000" />
+      <workItem from="1671783979263" duration="6602000" />
+      <workItem from="1671799074439" duration="6073000" />
+      <workItem from="1671849937770" duration="8032000" />
+      <workItem from="1672025264608" duration="2302000" />
+      <workItem from="1672122398357" duration="7435000" />
+      <workItem from="1672405165737" duration="1189000" />
+      <workItem from="1672469619512" duration="4236000" />
+      <workItem from="1672483598350" duration="1285000" />
+      <workItem from="1672661271781" duration="706000" />
+      <workItem from="1672670083386" duration="1620000" />
+      <workItem from="1672714935520" duration="12666000" />
+      <workItem from="1672829422887" duration="2706000" />
+      <workItem from="1672886711330" duration="659000" />
+      <workItem from="1672907002591" duration="7621000" />
+      <workItem from="1672971992951" duration="4769000" />
+      <workItem from="1673052306879" duration="22052000" />
+      <workItem from="1673184877216" duration="1736000" />
+      <workItem from="1673229375153" duration="1182000" />
+      <workItem from="1673487245387" duration="1230000" />
+      <workItem from="1673574235096" duration="3826000" />
+      <workItem from="1673946785183" duration="8323000" />
+      <workItem from="1674040731476" duration="5368000" />
+      <workItem from="1674127629549" duration="1864000" />
+      <workItem from="1674181898348" duration="2965000" />
+      <workItem from="1674706725965" duration="1189000" />
+      <workItem from="1674806800839" duration="7585000" />
+      <workItem from="1674821965798" duration="2326000" />
+      <workItem from="1674825952098" duration="3498000" />
+      <workItem from="1674830246866" duration="589000" />
+      <workItem from="1674870556762" duration="5210000" />
+      <workItem from="1674897315743" duration="222000" />
+      <workItem from="1674897566412" duration="259000" />
+      <workItem from="1674909817950" duration="2412000" />
+      <workItem from="1674952819352" duration="3650000" />
+      <workItem from="1674958532837" duration="1243000" />
+      <workItem from="1674982248315" duration="9706000" />
+      <workItem from="1675045935693" duration="595000" />
+      <workItem from="1675065516476" duration="2739000" />
+      <workItem from="1675068505612" duration="1542000" />
+      <workItem from="1675072985321" duration="5689000" />
+      <workItem from="1675079559667" duration="40000" />
+      <workItem from="1675130755212" duration="30266000" />
+      <workItem from="1675217172016" duration="32735000" />
+      <workItem from="1675298613399" duration="15047000" />
+      <workItem from="1675315995033" duration="4502000" />
+      <workItem from="1675338981249" duration="3655000" />
+      <workItem from="1675414570551" duration="6630000" />
+      <workItem from="1675759886256" duration="61000" />
+      <workItem from="1675759956746" duration="424000" />
+      <workItem from="1675760980041" duration="1754000" />
+      <workItem from="1675783031006" duration="3328000" />
+      <workItem from="1675819032220" duration="8926000" />
+      <workItem from="1675830270134" duration="218000" />
+      <workItem from="1675835694899" duration="4644000" />
+      <workItem from="1675909369103" duration="13920000" />
+      <workItem from="1675992717913" duration="6584000" />
+      <workItem from="1676005262776" duration="14043000" />
+      <workItem from="1676166771984" duration="3709000" />
+      <workItem from="1676206460643" duration="620000" />
+      <workItem from="1676269957748" duration="17646000" />
+      <workItem from="1676342981120" duration="508000" />
+      <workItem from="1676353473140" duration="13449000" />
+      <workItem from="1676460699253" duration="3002000" />
+      <workItem from="1676468046683" duration="1169000" />
+      <workItem from="1676551118010" duration="787000" />
+      <workItem from="1676557590917" duration="30000" />
+      <workItem from="1676596888112" duration="16000" />
+      <workItem from="1676597592501" duration="623000" />
+      <workItem from="1676598576799" duration="1803000" />
+      <workItem from="1676614007791" duration="7350000" />
+      <workItem from="1676726962276" duration="358000" />
+      <workItem from="1676727879959" duration="1161000" />
+      <workItem from="1676730535807" duration="7000" />
+      <workItem from="1676770250785" duration="13589000" />
+      <workItem from="1676816672380" duration="11000" />
+      <workItem from="1676857230849" duration="8271000" />
+      <workItem from="1676944486965" duration="8607000" />
+      <workItem from="1676981887557" duration="7910000" />
+      <workItem from="1677120232610" duration="13526000" />
+      <workItem from="1677244606739" duration="1067000" />
+      <workItem from="1677291691727" duration="1191000" />
+      <workItem from="1677391838247" duration="4319000" />
+      <workItem from="1677547994279" duration="597000" />
+      <workItem from="1677550075724" duration="456000" />
+      <workItem from="1677551116364" duration="12630000" />
+      <workItem from="1677589193357" duration="3460000" />
+      <workItem from="1677633936053" duration="4736000" />
+      <workItem from="1677671320637" duration="2740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransformerForAdLiner.py</url>
+          <line>228</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/util/build_criterion.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransformerForAdLiner.py</url>
+          <line>214</line>
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransformerForAdLiner.py</url>
+          <line>211</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/util/positional_encoding.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransformerForAdLiner.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/util_compare/test.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
