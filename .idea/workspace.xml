@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5538772-6056-4ab8-948c-e9f34eff3406" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="c5538772-6056-4ab8-948c-e9f34eff3406" name="Changes" comment="add README.md">
+      <change afterPath="$PROJECT_DIR$/Model/Transformer_Base_bank-additional-full-deonehot.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Transformer_Base_celeba_baldvsnonbald_normalised.pt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TransformerForAdLiner.py" beforeDir="false" afterPath="$PROJECT_DIR$/TransformerForAdLiner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaild_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/vaild_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +67,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\PROJECT\TFD-Net(Embed_Gaussian_Distribution)" />
       <recent name="E:\PROJECT\TFD-Net(Embed_Gaussian_Distribution)\Model" />
+      <recent name="E:\PROJECT\TFD-Net(Embed_Gaussian_Distribution)" />
       <recent name="E:\PROJECT\TFD-Net(Embed_Gaussian_Distribution)\dataset" />
       <recent name="E:\PROJECT\TransformerForAnomalDetectionDivV3.2" />
       <recent name="E:\PROJECT\TransformerForAnomalDetectionDivV3.1\data_secret" />
@@ -314,43 +317,39 @@
       <workItem from="1677633936053" duration="4736000" />
       <workItem from="1677671320637" duration="2740000" />
     </task>
+    <task id="LOCAL-00001" summary="add README.md">
+      <created>1698064069308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698064069308</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="add README.md" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/TransformerForAdLiner.py</url>
-          <line>228</line>
-          <option name="timeStamp" value="271" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/util/build_criterion.py</url>
           <line>81</line>
           <option name="timeStamp" value="286" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/TransformerForAdLiner.py</url>
-          <line>214</line>
-          <option name="timeStamp" value="288" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/TransformerForAdLiner.py</url>
-          <line>211</line>
-          <option name="timeStamp" value="292" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/util/positional_encoding.py</url>
           <line>49</line>
           <option name="timeStamp" value="294" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/TransformerForAdLiner.py</url>
-          <line>93</line>
-          <option name="timeStamp" value="295" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/util_compare/test.py</url>
